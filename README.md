@@ -1,2 +1,2 @@
 # Wikus
-Wikus - OC written in Python
+Wikus - OC written in Python(tkinter)
